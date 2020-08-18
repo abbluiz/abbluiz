@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-abbluiz-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/abbluiz)](https://t.me/abbluiz)
 [![Last.fm](https://img.shields.io/badge/Last.fm-abbluiz-b90000?style=flat&logo=Last.fm&link=https://www.last.fm/user/abbluiz)](https://www.last.fm/user/abbluiz)
 
-![LABB's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbluiz&count_private=true&show_icons=true&theme=dracula&layout=compact)
+![LABB's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbluiz&count_private=false&show_icons=true&theme=dracula&layout=compact)
 
 [![Server 1a: Website](https://img.shields.io/badge/Server_1a:_Website-abbluiz.com-green?style=flat&link=https://www.abbluiz.com)](https://www.abbluiz.com)
 
