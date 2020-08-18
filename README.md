@@ -15,4 +15,4 @@
 
 [![Server 2: Email](https://img.shields.io/badge/Server_2-labb.email-green?style=flat&link=https://labb.email)](https://labb.email)
 
-[![Keybase](https://img.shields.io/badge/Verify_me_at-Keybase-black?style=flat&link=https://www.keybase.io/abbluiz)](https://www.keybase.io/abbluiz)
+[![Keybase](https://img.shields.io/badge/Keybase-abbluiz-black?logo=Keybase&logoColor=white&style=flat&link=https://www.keybase.io/abbluiz)](https://www.keybase.io/abbluiz)
