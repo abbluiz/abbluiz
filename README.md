@@ -9,10 +9,10 @@
 
 ![LABB's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbluiz&count_private=true&show_icons=true&theme=dracula&layout=compact)
 
-[![Server 1a: Website](https://img.shields.io/badge/Server_1a-abbluiz.com-green?style=flat&link=https://www.abbluiz.com)](https://www.abbluiz.com)
+[![Server 1a: Website](https://img.shields.io/badge/Server_1a:_Website-abbluiz.com-green?style=flat&link=https://www.abbluiz.com)](https://www.abbluiz.com)
 
-[![Server 1b: Project](https://img.shields.io/badge/Server_1b-privacidade.digital-green?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
+[![Server 1b: Project](https://img.shields.io/badge/Server_1b:_Project-privacidade.digital-green?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
 
-[![Server 2: Email](https://img.shields.io/badge/Server_2-labb.email-green?style=flat&link=https://labb.email)](https://labb.email)
+[![Server 2: Email](https://img.shields.io/badge/Server_2:_Email-labb.email-green?style=flat&link=https://labb.email)](https://labb.email)
 
 [![Keybase](https://img.shields.io/badge/Keybase-abbluiz-black?logo=Keybase&logoColor=white&style=flat&link=https://www.keybase.io/abbluiz)](https://www.keybase.io/abbluiz)
