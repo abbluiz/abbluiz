@@ -18,3 +18,5 @@
 [![Server 1b: Project](https://img.shields.io/badge/Server_1b:_Project-privacidade.digital-green?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
 
 [![Server 2: Email](https://img.shields.io/badge/Server_2:_Email-labb.email-green?style=flat&link=https://labb.email)](https://labb.email)
+
+Profile Picture credits: [Yujin Kim](https://www.artstation.com/ujinizi)
