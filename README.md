@@ -15,8 +15,8 @@
 
 [![Blog & Portfolio](https://img.shields.io/badge/Blog%20%26%20Portfolio-abbluiz.com-a14040?style=flat&link=https://www.abbluiz.com)](https://www.abbluiz.com)
 
-[![PD](https://img.shields.io/badge/PD-privacidade.digital-darkgreen?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
-
 [![Email Server](https://img.shields.io/badge/Email_Server-labb.email-darkblue?style=flat&link=https://labb.email)](https://labb.email)
+
+[![PD](https://img.shields.io/badge/PD-privacidade.digital-darkgreen?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
 
 Profile Picture credits: [Yujin Kim](https://www.artstation.com/ujinizi)
