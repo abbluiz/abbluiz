@@ -13,10 +13,10 @@
 
 [![GitLab](https://img.shields.io/badge/GitLab-abbluiz-3f3177?style=flat&logo=GitLab&logoColor=white&link=https://gitlab.com/abbluiz)](https://gitlab.com/abbluiz)
 
-[![Server 1a: Blog & Portfolio](https://img.shields.io/badge/Server_1a:_Blog_&_Portfolio-abbluiz.com-green?style=flat&link=https://www.abbluiz.com)](https://www.abbluiz.com)
+[![Blog & Portfolio](https://img.shields.io/badge/Blog%20%26%20Portfolio-abbluiz.com-a14040?style=flat&link=https://www.abbluiz.com)](https://www.abbluiz.com)
 
-[![Server 1b: PD](https://img.shields.io/badge/Server_1b:_PD-privacidade.digital-green?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
+[![PD](https://img.shields.io/badge/PD-privacidade.digital-darkgreen?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
 
-[![Server 2: Email Server](https://img.shields.io/badge/Server_2:_Email_Server-labb.email-green?style=flat&link=https://labb.email)](https://labb.email)
+[![Email Server](https://img.shields.io/badge/Email_Server-labb.email-darkblue?style=flat&link=https://labb.email)](https://labb.email)
 
 Profile Picture credits: [Yujin Kim](https://www.artstation.com/ujinizi)
