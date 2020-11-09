@@ -1,6 +1,6 @@
 ## I am LABB 👋
 
-### Full Stack Developer & Systems Administrator
+### Full Stack Developer
 
 [![Matrix](https://img.shields.io/badge/Matrix-@labb:matrix.org-beige?style=flat&logo=Matrix&logoColor=white&link=https://matrix.to/#/@labb:matrix.org)](https://matrix.to/#/@labb:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-abbluiz-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/abbluiz)](https://t.me/abbluiz)
@@ -18,5 +18,3 @@
 [![Email Server](https://img.shields.io/badge/Email_Server-labb.email-darkblue?style=flat&link=https://labb.email)](https://labb.email)
 
 [![PD](https://img.shields.io/badge/PD-privacidade.digital-darkgreen?style=flat&link=https://www.privacidade.digital)](https://www.privacidade.digital)
-
-Profile Picture credits: [Yujin Kim](https://www.artstation.com/ujinizi)
